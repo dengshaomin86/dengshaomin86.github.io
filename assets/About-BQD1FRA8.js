@@ -1,1 +1,0 @@
-import{d as t,j as a,o,a as n,h as s,t as r,k as u}from"./index-CIXtlat3.js";const i=t({__name:"About",setup(c){const{t:e}=a();return(l,p)=>(o(),n("div",null,[s("h1",null,"About - "+r(u(e)("about")),1)]))}});export{i as default};
