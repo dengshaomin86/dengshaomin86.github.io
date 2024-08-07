@@ -1,12 +1,12 @@
 [
   {
     "title": "即时通讯",
-    "description": ["用户注册、登录", "搜索、添加好友，好友验证，好友管理", "单人、群组聊天", "发送表情、图片"],
-    "preview": ["/images/img.jpg", "/images/img.jpg", "/images/img.jpg"],
+    "description": ["用户注册、登录", "搜索、添加好友，好友验证，好友管理", "单人、群组聊天", "发送表情、图片、文件"],
+    "preview": ["/collection/chat/登录.jpg", "/collection/chat/单聊.jpg", "/collection/chat/群聊.jpg"],
     "links": [
       {
         "label": "立即体验",
-        "value": "test"
+        "value": "/chat-client"
       }
     ]
   },
@@ -21,8 +21,5 @@
   },
   {
     "title": "前端项目脚手架"
-  },
-  {
-    "title": "前端 sdk"
   }
 ]
