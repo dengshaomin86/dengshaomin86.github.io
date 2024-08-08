@@ -20,6 +20,13 @@
     "title": "react-native"
   },
   {
-    "title": "前端项目脚手架"
+    "title": "前端项目脚手架",
+    "description": ["提供不同类型项目模板下载", "安装: npm i -g cli-ddd", "使用: cli-ddd create <app-name>"],
+    "links": [
+      {
+        "label": "npm地址",
+        "value": "https://www.npmjs.com/package/cli-ddd"
+      }
+    ]
   }
 ]
